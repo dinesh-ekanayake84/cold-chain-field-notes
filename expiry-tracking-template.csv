@@ -1,0 +1,11 @@
+Product Line,Batch No.,Quantity (Units),Intake Date,Expiry Date,Days to Expiry,Storage Zone,Campaign Allocation,Dispatched Qty,Remaining Qty,Status,Notes
+Beverage A - 250ml,BT-2026-001,500,1/05/2026,15/06/2026,29,Cold Storage - Zone 1,Campaign Site 03,200,300,Active,FIFO rotation applied
+Beverage A - 250ml,BT-2026-002,500,10/05/2026,20/06/2026,34,Cold Storage - Zone 1,Campaign Site 03,0,500,Pending Dispatch,Newer batch0151—held behind BT-2026-001
+Beverage B - 500ml,BT-2026-003,300,28/04/2026,25/05/2026,8,Cold Storage - Zone 2,Campaign Site 01,300,0,Fully Dispatched,Completed—post-campaign reconciliation done
+Beverage B - 500ml,BT-2026-004,400,5/05/2026,5/06/2026,19,Cold Storage - Zone 2,Campaign Site 02,150,250,Active,Monitor—approaching mid-cycle
+Snack Product C,SP-2026-001,1000,3/05/2026,3/07/2026,47,Dry Storage - Zone 3,Campaign Site 01,400,600,Active,Stable—no immediate action required
+Snack Product C,SP-2026-002,800,12/05/2026,10/07/2026,54,Dry Storage - Zone 3,Campaign Site 04,0,800,Pending Allocation,Awaiting campaign schedule confirmation
+Beverage D - 330ml,BT-2026-005,250,20/04/2026,20/05/2026,3,Cold Storage - Zone 1,Campaign Site 02,200,50,PRIORITY—Near Expiry,Flag for immediate use or reallocation
+Promotional Pack E,PP-2026-001,150,8/05/2026,8/08/2026,83,Dry Storage - Zone 4,TBC,0,150,Pending Allocation,Long shelf life—low urgency
+Beverage A - 250ml,BT-2026-006,600,15/05/2026,25/06/2026,39,Cold Storage - Zone 1,Campaign Site 05,0,600,Incoming— Not Yet Active,Intake inspection completed—cleared for storage
+Snack Product F,SP-2026-003,200,15/04/2026,18/05/2026,1,Dry Storage - Zone 3,Campaign Site 03,180,20,URGENT—Expires Tomorrow,Remaining 20 units flagged for immediate dispatch or write-off
