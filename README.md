@@ -61,9 +61,10 @@ A promotional warehouse handles more than just products — it holds technical e
 
 ---
 
+
 ## Context
 
-These field notes are drawn from operational experience at a promotional media company managing outdoor advertising campaigns and food and beverage product activations across multiple sites in Sri Lanka. They are generalised to protect operational confidentiality while preserving practical relevance.
+These field notes are based on operational experience supporting outdoor advertising campaigns and food and beverage activations across multiple sites in Sri Lanka. Examples and supporting materials have been generalised to protect confidentiality while maintaining practical relevance.
 
 ---
 
